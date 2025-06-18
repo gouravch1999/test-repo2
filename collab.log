@@ -1,5 +1,6 @@
 wwfwqrwr
 sfwfwafwaf
+vitesco
 skankshfSkn2025-03-07 15:35:08,623 INFO main org.jboss.weld.environment.servletWeldServlet - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
 2025-03-07 15:35:08,676 INFO main org.jboss.weld.Version - WELD-000900: 2.4.5 (Final)
 2025-03-07 15:35:09,311 INFO main org.jboss.weld.Bootstrap - WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
